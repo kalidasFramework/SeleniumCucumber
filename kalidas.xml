@@ -1,0 +1,13 @@
+<suite name="Kalidas">
+  <test name="SmokeTest">
+    <classes>
+      <class name="com.TestNG.partices.AnnotationTest"/>
+      <class name="com.TestNG.partices.MultipleTestCase"/>
+      <class name="com.TestNG.partices.AnnotationTest3"/>
+      <class name="com.TestNG.partices.AddofTwoNumbers"/>
+      <class name="com.TestNG.partices.AnnotationTest1"/>
+      <class name="com.TestNG.partices.AdminLogin"/>
+      <class name="com.TestNG.partices.SampleTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

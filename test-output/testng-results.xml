@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-01T07:42:07 IST" name="Kalidas" finished-at="2024-05-01T07:42:24 IST" duration-ms="17610">
+    <groups>
+    </groups>
+    <test started-at="2024-05-01T07:42:07 IST" name="SmokeTest" finished-at="2024-05-01T07:42:24 IST" duration-ms="17610">
+      <class name="com.TestNG.partices.SampleTest">
+        <test-method signature="sample()[pri:0, instance:com.TestNG.partices.SampleTest@201a4587]" started-at="2024-05-01T07:42:24 IST" name="sample" finished-at="2024-05-01T07:42:24 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+      </class> <!-- com.TestNG.partices.SampleTest -->
+      <class name="com.TestNG.partices.AdminLogin">
+        <test-method signature="adminlogin()[pri:0, instance:com.TestNG.partices.AdminLogin@47e2e487]" started-at="2024-05-01T07:42:07 IST" name="adminlogin" finished-at="2024-05-01T07:42:24 IST" duration-ms="16994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminlogin -->
+      </class> <!-- com.TestNG.partices.AdminLogin -->
+      <class name="com.TestNG.partices.AnnotationTest1">
+        <test-method is-config="true" signature="beforTest()[pri:0, instance:com.TestNG.partices.AnnotationTest1@51e69659]" started-at="2024-05-01T07:42:07 IST" name="beforTest" finished-at="2024-05-01T07:42:07 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforTest -->
+        <test-method signature="test1()[pri:0, instance:com.TestNG.partices.AnnotationTest1@51e69659]" started-at="2024-05-01T07:42:07 IST" name="test1" finished-at="2024-05-01T07:42:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:com.TestNG.partices.AnnotationTest1@51e69659]" started-at="2024-05-01T07:42:07 IST" name="test2" finished-at="2024-05-01T07:42:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:com.TestNG.partices.AnnotationTest1@51e69659]" started-at="2024-05-01T07:42:07 IST" name="test3" finished-at="2024-05-01T07:42:07 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:com.TestNG.partices.AnnotationTest1@51e69659]" started-at="2024-05-01T07:42:07 IST" name="test4" finished-at="2024-05-01T07:42:07 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:com.TestNG.partices.AnnotationTest1@51e69659]" started-at="2024-05-01T07:42:24 IST" name="aftertest" finished-at="2024-05-01T07:42:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- com.TestNG.partices.AnnotationTest1 -->
+      <class name="com.TestNG.partices.AnnotationTest3">
+        <test-method is-config="true" signature="befortest()[pri:0, instance:com.TestNG.partices.AnnotationTest3@82de64a]" started-at="2024-05-01T07:42:07 IST" name="befortest" finished-at="2024-05-01T07:42:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befortest -->
+        <test-method is-config="true" signature="beforclass()[pri:0, instance:com.TestNG.partices.AnnotationTest3@82de64a]" started-at="2024-05-01T07:42:07 IST" name="beforclass" finished-at="2024-05-01T07:42:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforclass -->
+        <test-method signature="test1()[pri:0, instance:com.TestNG.partices.AnnotationTest3@82de64a]" started-at="2024-05-01T07:42:07 IST" name="test1" finished-at="2024-05-01T07:42:07 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:com.TestNG.partices.AnnotationTest3@82de64a]" started-at="2024-05-01T07:42:07 IST" name="test2" finished-at="2024-05-01T07:42:07 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:com.TestNG.partices.AnnotationTest3@82de64a]" started-at="2024-05-01T07:42:07 IST" name="test3" finished-at="2024-05-01T07:42:07 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:com.TestNG.partices.AnnotationTest3@82de64a]" started-at="2024-05-01T07:42:07 IST" name="test4" finished-at="2024-05-01T07:42:07 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.TestNG.partices.AnnotationTest3@82de64a]" started-at="2024-05-01T07:42:07 IST" name="afterclass" finished-at="2024-05-01T07:42:07 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:com.TestNG.partices.AnnotationTest3@82de64a]" started-at="2024-05-01T07:42:24 IST" name="aftertest" finished-at="2024-05-01T07:42:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- com.TestNG.partices.AnnotationTest3 -->
+      <class name="com.TestNG.partices.MultipleTestCase">
+        <test-method signature="OpenURL(java.lang.String,java.lang.String)[pri:0, instance:com.TestNG.partices.MultipleTestCase@49049a04]" started-at="2024-05-01T07:42:07 IST" name="OpenURL" data-provider="getData" finished-at="2024-05-01T07:42:07 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kalidas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kalidas@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+        <test-method signature="OpenURL(java.lang.String,java.lang.String)[pri:0, instance:com.TestNG.partices.MultipleTestCase@49049a04]" started-at="2024-05-01T07:42:07 IST" name="OpenURL" data-provider="getData" finished-at="2024-05-01T07:42:07 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+      </class> <!-- com.TestNG.partices.MultipleTestCase -->
+      <class name="com.TestNG.partices.AddofTwoNumbers">
+        <test-method signature="AddTwonubmer()[pri:0, instance:com.TestNG.partices.AddofTwoNumbers@659499f1]" started-at="2024-05-01T07:42:07 IST" name="AddTwonubmer" finished-at="2024-05-01T07:42:07 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddTwonubmer -->
+        <test-method signature="Multipication()[pri:0, instance:com.TestNG.partices.AddofTwoNumbers@659499f1]" started-at="2024-05-01T07:42:07 IST" name="Multipication" finished-at="2024-05-01T07:42:07 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Multipication -->
+      </class> <!-- com.TestNG.partices.AddofTwoNumbers -->
+      <class name="com.TestNG.partices.AnnotationTest">
+        <test-method is-config="true" signature="beformethod()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="beformethod" finished-at="2024-05-01T07:42:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method signature="test1()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="test1" finished-at="2024-05-01T07:42:07 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="aftermethod" finished-at="2024-05-01T07:42:07 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="test2()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="test2" finished-at="2024-05-01T07:42:07 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="beformethod()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="beformethod" finished-at="2024-05-01T07:42:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="aftermethod" finished-at="2024-05-01T07:42:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="test3()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="test3" finished-at="2024-05-01T07:42:07 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="beformethod()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="beformethod" finished-at="2024-05-01T07:42:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="aftermethod" finished-at="2024-05-01T07:42:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beformethod()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="beformethod" finished-at="2024-05-01T07:42:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method signature="test4()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="test4" finished-at="2024-05-01T07:42:07 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.TestNG.partices.AnnotationTest@4738a206]" started-at="2024-05-01T07:42:07 IST" name="aftermethod" finished-at="2024-05-01T07:42:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.TestNG.partices.AnnotationTest -->
+    </test> <!-- SmokeTest -->
+  </suite> <!-- Kalidas -->
+</testng-results>
