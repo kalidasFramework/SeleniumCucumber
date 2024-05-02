@@ -3,11 +3,15 @@
 <suite name="Failed suite [Kalidas]">
   <test thread-count="5" name="SmokeTest(failed)">
     <classes>
-      <class name="com.TestNG.partices.MultipleTestCase">
+      <class name="com.TestNG.partices.EmployeeCreation">
         <methods>
-          <include name="OpenURL"/>
+          <include name="AppLogout"/>
+          <include name="AppLanuch"/>
+          <include name="AppLogin"/>
+          <include name="AppClose"/>
+          <include name="empcreation"/>
         </methods>
-      </class> <!-- com.TestNG.partices.MultipleTestCase -->
+      </class> <!-- com.TestNG.partices.EmployeeCreation -->
     </classes>
   </test> <!-- SmokeTest(failed) -->
 </suite> <!-- Failed suite [Kalidas] -->
